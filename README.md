@@ -2,7 +2,7 @@
 BIM Dynamo Scripts
 
 
-HOW TO CREAT LEGENDS ON MULTIPLE SHEETS
+HOW TO CREATE LEGENDS ON MULTIPLE SHEETS
 
 public void legendOnSheets()
 {
